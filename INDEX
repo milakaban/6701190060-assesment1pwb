@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Belajar Membuat Tabel HTML</title>
+</head>
+<body>
+
+<table border="1" cellpadding="10">
+        <tr>
+            <td>Nama : Mila Adelia Kaban</td> / 
+            <td>TTL  : GunungSitember 06 Maret 2001</td>
+            <td>Usia : 20 Tahun </td>
+        </tr>
+        <tr>
+            <td>NIM    : 6701190060 </td>
+            <td> Kelas : D3SI4304 </td>
+            <td> Prodi : D3 Sistem Informasi,Fakultas Ilmu Terapan,Universitas Telkom </td>
+        </tr>
+        <tr>
+        	<td> IPK : 4.00 </td>
+        	<td> Dosen Wali : Suryatiningsih, S.T.,M.T., OCA
+        	
+    </table>
+
+</body>
+</html>
